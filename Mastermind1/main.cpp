@@ -29,7 +29,7 @@ bool isValidGuess(string code, string guess);
 int main(int argc, const char * argv[]) {
     
     cout << "**** Welcome to Mastermind! ****" << endl << endl;
-    
+    cout << "Paul edited, does it still work in xcode?" << endl;
     string s = "";
     
     while(s != "1" && s != "0"){
